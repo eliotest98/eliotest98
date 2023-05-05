@@ -21,21 +21,21 @@
   </h2>
   <table style="border:none">
     <th style="border:none">
-      <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="Linkedin: Elio Testa"
-        height="30"
-        width="40"
-        onclick="https://www.linkedin.com/in/elio-testa-532b99195/"
-      />
+      <a href="https://www.linkedin.com/in/elio-testa-532b99195/"> 
+            <img
+                align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="Linkedin: Elio Testa"
+                height="30"
+                width="40"
+            /> 
+      </a>
     </th>
     <th style="border:none">
-      <link
-        class="fa fa-telegram"
-        style="font-size:30px;color:rgb(4,158,217);padding-top:5px"
-        onclick="https://t.me/eliotesta98"
-      >
+      <a href="https://t.me/eliotesta98">
+        <link class="fa fa-telegram"
+        style="font-size:30px;color:rgb(4,158,217);padding-top:5px">
+      </a>
     </th>
   </table>
   <h2>
@@ -46,7 +46,7 @@
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-green.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-violet.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="JavaServlet" src="https://img.shields.io/badge/javaservlet-blue.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -80,6 +80,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=docker&logoColor=ligthblue"/>
     <img alt="JCup" src="https://img.shields.io/badge/-JCup-brown?style=for-the-badge&logo=JCup&logoColor=white"/>
     <img alt="JFlex" src="https://img.shields.io/badge/-JFlax-%23DD0031?style=for-the-badge&logo=JFlax&logoColor=white"/>
+    <img alt="MySqlWorkbench" src="https://img.shields.io/badge/-MySqlWorkbench-violet?style=for-the-badge&logo=MySql&logoColor=blue"/>
   </p>
   <h2>🏆 Github Stats</h2>
   <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=eliotest98&theme=oldie&row=1&no-frame=true&no-bg=true"/>
