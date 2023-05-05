@@ -37,7 +37,7 @@
       <a href="mailto:eliotesta1998@libero.it">
             <img
                 align="center"
-                src="https://raw.githubusercontent.com/eliotest98/eliotest98/12e0e75466828f0eb46db194763559c8c86f459c/images/telegram.svg"
+                src="https://raw.githubusercontent.com/eliotest98/eliotest98/b56fd0e67051d6dc66f14ac5dab3e63f3eeac6ef/images/email.svg"
                 alt="eliotesta1998@libero.it"
                 height="30"
                 width="40"
