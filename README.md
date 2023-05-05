@@ -19,8 +19,6 @@
   <h2>
    🗣️ Connect with me 
   </h2>
-  <table style="border:none">
-    <th style="border:none">
       <a href="https://www.linkedin.com/in/elio-testa-532b99195/"> 
             <img
                 align="center"
@@ -30,8 +28,6 @@
                 width="40"
             /> 
       </a>
-    </th>
-    <th style="border:none">
       <a href="https://t.me/eliotesta98">
             <img
                 align="center"
@@ -41,8 +37,6 @@
                 width="40"
             /> 
       </a>
-    </th>
-  </table>
   <h2>
     💻Developments
   </h2>
