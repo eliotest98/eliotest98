@@ -33,7 +33,13 @@
     </th>
     <th style="border:none">
       <a href="https://t.me/eliotesta98">
-        <img src="style.svg">
+            <img
+                align="center"
+                src="https://raw.githubusercontent.com/eliotest98/eliotest98/ad2894b5826ae5814a9d7070c4ad80f52dcb9f25/images/telegram.svg"
+                alt="Telegram: @eliotesta98"
+                height="30"
+                width="40"
+            /> 
       </a>
     </th>
   </table>
