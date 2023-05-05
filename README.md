@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 <div align="center">
   <h2>
     📜 About me
@@ -20,14 +21,8 @@
   </h2>
   <table style="border:none">
     <th style="border:none">
-      <a href="https://www.linkedin.com/in/elio-testa-532b99195/"> 
-            <img
-                align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="Linkedin: Elio Testa"
-                height="30"
-                width="40"
-            /> 
+      <a href="https://www.linkedin.com/in/elio-testa-532b99195/">
+            <img src="linked-in-alt.svg">
       </a>
     </th>
     <th style="border:none">
