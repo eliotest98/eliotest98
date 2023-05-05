@@ -1,19 +1,10 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                display: flex;
-                width: 100%;
-                height: 300px;
-                background-color: black;
-                color: white;
-                }
-            </style>
-
-            <div class="container">
-                <h1>Hi there, my name is Nikola 👋</h1>
-            </div>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <i class="fa fa-telegram"
+               style="font-size:30px;color:rgb(4,158,217);padding-top:5px">
+            </i>
         </div>
     </foreignObject>
 </svg>
