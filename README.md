@@ -22,12 +22,12 @@
   <table style="border:none">
     <th style="border:none">
       <a href="https://www.linkedin.com/in/elio-testa-532b99195/">
-            <img src="linked-in-alt.svg">
+            <img src="images/linked-in-alt.svg">
       </a>
     </th>
     <th style="border:none">
       <a href="https://t.me/eliotesta98">
-        <img src="style.svg">
+        <img src="images/style.svg">
       </a>
     </th>
   </table>
