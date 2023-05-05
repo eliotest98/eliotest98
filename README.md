@@ -7,7 +7,7 @@
     👩‍💻 Student/Developer
   </h3>
   <h4>
-    I'm 25, from Italy. I graduated with a bachelor's degree in computer science in 2021 from the University of Salerno, and I am continue my studies with a master's degree in Software Engineering & IT Management
+    I'm 25, from Italy. I graduated with a bachelor's degree in Computer Science in 2021 from the University of Salerno, and I am continue my studies with a master's degree in Software Engineering & IT Management
   </h4>
   <img
     src="https://komarev.com/ghpvc/?username=eliotesta98"
@@ -62,7 +62,6 @@
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-black.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/dart-s.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   </p>
-  <br/>
   <h2>
     🛠️ Tools & Softwares
   </h2>
