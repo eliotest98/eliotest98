@@ -33,9 +33,7 @@
     </th>
     <th style="border:none">
       <a href="https://t.me/eliotesta98">
-        <i class="fa fa-telegram"
-          style="font-size:30px;color:rgb(4,158,217);padding-top:5px">
-        </i>
+        <img src="style.svg">
       </a>
     </th>
   </table>
