@@ -22,7 +22,7 @@
   <table style="border:none">
     <th style="border:none">
       <a href="https://www.linkedin.com/in/elio-testa-532b99195/">
-            <img src="images/linked-in-alt.svg">
+            <img src="images/linkedin.svg">
       </a>
     </th>
     <th style="border:none">
