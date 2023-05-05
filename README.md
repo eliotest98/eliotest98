@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**eliotest98/eliotest98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>
+    📜About me
+  </h2>
+  <h3>
+    👩‍💻Student/Developer
+  </h3>
+  <h4>
+    I'm 25, from Italy. I graduated with a bachelor's degree in computer science in 2021 from the University of Salerno, and I am continue my studies with a master's degree in Software Engineering & IT Management</h4>
+  <img
+    src="https://komarev.com/ghpvc/?username=eliotesta98"
+    alt="eliotesta98"
+       />
