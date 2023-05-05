@@ -13,9 +13,6 @@
     src="https://komarev.com/ghpvc/?username=eliotesta98"
     alt="eliotest98"
        />
-  <h4>
-   How to reach me: <a href="mailto:eliotesta1998@libero.it">eliotesta1998@libero.it</a>
-  </h4>
   <h2>
    🗣️ Connect with me 
   </h2>
@@ -33,6 +30,15 @@
                 align="center"
                 src="https://raw.githubusercontent.com/eliotest98/eliotest98/12e0e75466828f0eb46db194763559c8c86f459c/images/telegram.svg"
                 alt="Telegram: @eliotesta98"
+                height="30"
+                width="40"
+            /> 
+      </a>
+      <a href="mailto:eliotesta1998@libero.it">
+            <img
+                align="center"
+                src="https://raw.githubusercontent.com/eliotest98/eliotest98/12e0e75466828f0eb46db194763559c8c86f459c/images/telegram.svg"
+                alt="eliotesta1998@libero.it"
                 height="30"
                 width="40"
             /> 
