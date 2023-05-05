@@ -21,13 +21,19 @@
   </h2>
   <table style="border:none">
     <th style="border:none">
-      <a href="https://www.linkedin.com/in/elio-testa-532b99195/">
-            <img src="https://raw.githubusercontent.com/eliotest98/eliotest98/9ec283dd13feb5853f4c37e55fe5fa8604161d57/images/linkedin.svg">
+      <a href="https://www.linkedin.com/in/elio-testa-532b99195/"> 
+            <img
+                align="center"
+                src="https://raw.githubusercontent.com/eliotest98/eliotest98/9ec283dd13feb5853f4c37e55fe5fa8604161d57/images/linkedin.svg"
+                alt="Linkedin: Elio Testa"
+                height="30"
+                width="40"
+            /> 
       </a>
     </th>
     <th style="border:none">
       <a href="https://t.me/eliotesta98">
-        <img src="images/style.svg">
+        <img src="style.svg">
       </a>
     </th>
   </table>
