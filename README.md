@@ -4,10 +4,11 @@
     📜 About me
   </h2>
   <h3>
-    👩‍💻 Student/Developer
+    👩‍💻 Developer
   </h3>
   <h4>
-    I'm 26, from Italy. I graduated with a bachelor's degree in Computer Science in 2021 from the University of Salerno, and I am continue my studies with a master's degree in Software Engineering & IT Management
+    I'm 27, from Italy. I graduated with a bachelor's degree in Computer Science in 2021 from the University of Salerno, and a master's degree in Software Engineering & IT Management in 2024.
+     I am currently working as a software developer at a company and i make Minecraft plugins for hobby.
   </h4>
   <img
     src="https://komarev.com/ghpvc/?username=eliotesta98"
@@ -61,6 +62,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-black.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/dart-s.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="Spring" src="https://img.shields.io/badge/spring-s.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
   <h2>
     🛠️ Tools & Softwares
