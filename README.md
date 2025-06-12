@@ -62,7 +62,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-black.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/dart-s.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-    <img alt="Spring" src="https://img.shields.io/badge/spring-s.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="Spring" src="https://img.shields.io/badge/spring-white.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
   <h2>
     🛠️ Tools & Softwares
